@@ -4,3 +4,20 @@ body {
   font-family: "Rubik", sans-serif;
   background: #f5d9d5;
 }
+
+#mainNavbar {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+
+#mainNavbar .navbar-brand {
+  color: #ea1c2c;
+}
+
+#mainNavbar .nav-Link {
+  color: white;
+}
+
+#mainNavbar .nav-Link:hover {
+  color: #ea1c2c;
+}
