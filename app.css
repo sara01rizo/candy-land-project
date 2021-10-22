@@ -5,6 +5,11 @@ body {
   background: #f5d9d5;
 }
 
+p {
+  opacity: 50%;
+  font-weight: 100;
+  font-size: 1.25rem;
+}
 #mainNavbar {
   font-size: 1.5rem;
   font-weight: 100;
